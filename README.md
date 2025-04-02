@@ -17,7 +17,7 @@
 
 
 
-### Run For Two Ssample:
+### Run For more than two Ssample:
 
       python vcf_con.py Sample1.vcf Sample2.vcf Sample3.vcf Sample4.vcf --output ./
 

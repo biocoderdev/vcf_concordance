@@ -1,15 +1,14 @@
 # vcf_concordance
 
 ## Requirement
-      sudo apt-get install python3-pyqt5
-      import os
-    
+            sudo apt-get install python3-pyqt5
+          
 ## Python Packages
     
-    matplotlib
-    upsetplot 
-    pandas
-    cyvcf2
+          matplotlib
+          upsetplot 
+          pandas
+          cyvcf2
 
 ### Run For Two Ssample:
 
